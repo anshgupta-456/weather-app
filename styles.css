@@ -58,7 +58,7 @@
   }
   
   #weather-data {
-    background-color: rgba(37, 226, 56, 0.85);
+    background-color: rgba(234, 154, 26, 0.85);
     border-radius: 5px;
     padding: 1.5em;
     margin-top: 20px;
@@ -70,5 +70,5 @@
   
   #weather-data > img {
     border-radius: 50%;
-    background-color: rgb(68, 246, 189);
+    background-color: rgba(191, 234, 73, 0.848);
   }
