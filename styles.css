@@ -5,9 +5,9 @@
   }
   
   body {
-    background-image:url("backround_image.jpg");
+    background-image: url(backround_image.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     font-family:cursive;
     height: 100vh;
   }
